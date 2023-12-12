@@ -1,0 +1,7 @@
+# Easy-Care
+patient centered EHR DAPP
+This project focuses on the development of a website that utilizes blockchain technology, specifically IPFS for decentralized data storage, and Ethereum blockchain for executing smart contracts. Its primary objective is to securely and decentralizely store electronic health records (EHRs) while empowering patients with ownership and control over their health data. By leveraging the transparency, immutability, and data integrity provided by the blockchain, the website ensures trust and privacy protection for patients.
+
+The website allows patients to grant access to their EHRs to healthcare providers and authorized parties. Advanced encryption and access control mechanisms are implemented to maintain the confidentiality and security of sensitive information. By leveraging IPFS, patient records are stored in a decentralized manner, enhancing data security and privacy. The use of Ethereum blockchain enables the execution of smart contracts, facilitating seamless access control and permissions management.
+
+Through the combination of IPFS and Ethereum blockchain, the website revolutionizes EHR management by promoting patient-centric care, data security, and transparency in the healthcare industry. It fosters trust and confidence by providing a secure and auditable platform for storing and managing electronic health records. Overall, this project aims to improve healthcare data management by leveraging blockchain technology, ensuring patient ownership, privacy, and trust in the management of their health data.
